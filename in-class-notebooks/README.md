@@ -4,16 +4,18 @@
 
 If you would like to view a notebook as a static page, I recommend using the links provided below to the view the page through nbviewer.  The MathJax rendering through GitHub can be kinda janky sometimes.  
 
-[02_Naive_Bayes](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes.ipynb)
+[02_Naive_Bayes](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes_Solutions.ipynb)
 
 
-[03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models.ipynb?flush_cache=True)
+[03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models.ipynb?flush_cache=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models_Solutions.ipynb?flush_cache=True)
+
+
+[04_Stochastic_Gradient_Descent](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/04_Stochastic_Gradient_Descent.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/04_Stochastic_Gradient_Descent_Solutions.ipynb)
+
+
+[05_Multiclass_and_Momentum](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/05_Multiclass_and_Momentum.ipynb)
 
 <!---
-
-[04_Stochastic_Gradient_Ascent](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/04_Stochastic_Gradient_Ascent.ipynb)
-
-[05_Hard_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/05_Hard_Margin_SVMs.ipynb)
 
 [06_Soft_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/06_Soft_Margin_SVMs.ipynb)
 
