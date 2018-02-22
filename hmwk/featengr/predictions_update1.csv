@@ -14,7 +14,7 @@ id,spoiler
 12,False
 13,True
 14,False
-15,False
+15,True
 16,True
 17,False
 18,False
@@ -51,7 +51,7 @@ id,spoiler
 49,True
 50,False
 51,True
-52,True
+52,False
 53,False
 54,False
 55,True
@@ -89,7 +89,7 @@ id,spoiler
 87,False
 88,False
 89,False
-90,True
+90,False
 91,False
 92,True
 93,False
@@ -177,7 +177,7 @@ id,spoiler
 175,True
 176,False
 177,True
-178,True
+178,False
 179,False
 180,False
 181,True
@@ -213,7 +213,7 @@ id,spoiler
 211,True
 212,True
 213,False
-214,False
+214,True
 215,False
 216,True
 217,False
@@ -234,7 +234,7 @@ id,spoiler
 232,True
 233,True
 234,True
-235,False
+235,True
 236,False
 237,False
 238,False
@@ -244,11 +244,11 @@ id,spoiler
 242,False
 243,True
 244,False
-245,False
-246,False
+245,True
+246,True
 247,False
 248,True
-249,True
+249,False
 250,True
 251,True
 252,False
@@ -285,7 +285,7 @@ id,spoiler
 283,False
 284,True
 285,True
-286,True
+286,False
 287,False
 288,True
 289,True
@@ -315,7 +315,7 @@ id,spoiler
 313,False
 314,False
 315,True
-316,False
+316,True
 317,False
 318,True
 319,True
@@ -467,7 +467,7 @@ id,spoiler
 465,False
 466,False
 467,False
-468,True
+468,False
 469,False
 470,False
 471,False
@@ -578,7 +578,7 @@ id,spoiler
 576,False
 577,False
 578,True
-579,False
+579,True
 580,False
 581,False
 582,True
@@ -593,7 +593,7 @@ id,spoiler
 591,False
 592,True
 593,False
-594,False
+594,True
 595,False
 596,True
 597,True
@@ -632,7 +632,7 @@ id,spoiler
 630,True
 631,True
 632,True
-633,False
+633,True
 634,True
 635,False
 636,True
@@ -641,7 +641,7 @@ id,spoiler
 639,False
 640,True
 641,False
-642,False
+642,True
 643,True
 644,False
 645,False
@@ -663,7 +663,7 @@ id,spoiler
 661,True
 662,True
 663,True
-664,True
+664,False
 665,False
 666,False
 667,True
@@ -756,7 +756,7 @@ id,spoiler
 754,False
 755,False
 756,False
-757,False
+757,True
 758,False
 759,False
 760,True
@@ -773,7 +773,7 @@ id,spoiler
 771,True
 772,True
 773,False
-774,True
+774,False
 775,True
 776,True
 777,True
@@ -803,7 +803,7 @@ id,spoiler
 801,True
 802,True
 803,True
-804,False
+804,True
 805,True
 806,True
 807,False
@@ -928,7 +928,7 @@ id,spoiler
 926,True
 927,False
 928,False
-929,False
+929,True
 930,True
 931,False
 932,True
@@ -936,7 +936,7 @@ id,spoiler
 934,True
 935,True
 936,True
-937,False
+937,True
 938,True
 939,False
 940,False
@@ -972,7 +972,7 @@ id,spoiler
 970,True
 971,True
 972,True
-973,False
+973,True
 974,False
 975,True
 976,True
@@ -1015,7 +1015,7 @@ id,spoiler
 1013,True
 1014,False
 1015,True
-1016,False
+1016,True
 1017,False
 1018,False
 1019,False
@@ -1028,7 +1028,7 @@ id,spoiler
 1026,False
 1027,False
 1028,False
-1029,False
+1029,True
 1030,True
 1031,False
 1032,False
@@ -1051,7 +1051,7 @@ id,spoiler
 1049,False
 1050,False
 1051,True
-1052,True
+1052,False
 1053,False
 1054,False
 1055,False
@@ -1068,7 +1068,7 @@ id,spoiler
 1066,False
 1067,False
 1068,True
-1069,False
+1069,True
 1070,True
 1071,True
 1072,True
@@ -1089,7 +1089,7 @@ id,spoiler
 1087,False
 1088,False
 1089,False
-1090,True
+1090,False
 1091,True
 1092,False
 1093,False
@@ -1107,14 +1107,14 @@ id,spoiler
 1105,False
 1106,False
 1107,False
-1108,True
+1108,False
 1109,False
 1110,False
 1111,False
 1112,False
 1113,False
 1114,False
-1115,True
+1115,False
 1116,True
 1117,True
 1118,True
@@ -1128,12 +1128,12 @@ id,spoiler
 1126,True
 1127,False
 1128,True
-1129,True
-1130,True
+1129,False
+1130,False
 1131,False
 1132,True
 1133,False
-1134,True
+1134,False
 1135,True
 1136,False
 1137,False
@@ -1141,7 +1141,7 @@ id,spoiler
 1139,False
 1140,False
 1141,False
-1142,True
+1142,False
 1143,True
 1144,True
 1145,True
@@ -1167,7 +1167,7 @@ id,spoiler
 1165,True
 1166,False
 1167,False
-1168,True
+1168,False
 1169,False
 1170,True
 1171,False
@@ -1181,16 +1181,16 @@ id,spoiler
 1179,False
 1180,False
 1181,False
-1182,False
+1182,True
 1183,False
-1184,True
+1184,False
 1185,False
 1186,False
 1187,True
 1188,True
 1189,False
 1190,False
-1191,True
+1191,False
 1192,False
 1193,False
 1194,False
@@ -1210,7 +1210,7 @@ id,spoiler
 1208,False
 1209,False
 1210,False
-1211,True
+1211,False
 1212,False
 1213,True
 1214,False
@@ -1256,13 +1256,13 @@ id,spoiler
 1254,False
 1255,False
 1256,True
-1257,False
+1257,True
 1258,False
 1259,False
 1260,False
 1261,True
 1262,True
-1263,True
+1263,False
 1264,False
 1265,False
 1266,True
@@ -1277,8 +1277,8 @@ id,spoiler
 1275,True
 1276,True
 1277,False
-1278,False
-1279,False
+1278,True
+1279,True
 1280,False
 1281,False
 1282,True
@@ -1288,7 +1288,7 @@ id,spoiler
 1286,False
 1287,True
 1288,False
-1289,False
+1289,True
 1290,False
 1291,False
 1292,True
@@ -1323,7 +1323,7 @@ id,spoiler
 1321,False
 1322,False
 1323,False
-1324,False
+1324,True
 1325,False
 1326,False
 1327,False
@@ -1331,7 +1331,7 @@ id,spoiler
 1329,False
 1330,True
 1331,False
-1332,False
+1332,True
 1333,True
 1334,False
 1335,True
@@ -1339,7 +1339,7 @@ id,spoiler
 1337,False
 1338,False
 1339,False
-1340,False
+1340,True
 1341,False
 1342,False
 1343,False
@@ -1386,7 +1386,7 @@ id,spoiler
 1384,False
 1385,False
 1386,False
-1387,True
+1387,False
 1388,False
 1389,False
 1390,False
@@ -1413,7 +1413,7 @@ id,spoiler
 1411,False
 1412,True
 1413,True
-1414,True
+1414,False
 1415,False
 1416,False
 1417,False
@@ -1435,7 +1435,7 @@ id,spoiler
 1433,False
 1434,False
 1435,False
-1436,True
+1436,False
 1437,True
 1438,True
 1439,False
